@@ -5,6 +5,7 @@
 * Check mass emails
 * Get the result in txt format in **database.txt** and in csv **breached.csv**
 * Resume checking from where it left off
+
 ###### Steps
 1. Create a file **emails.txt** and put your emails there, comma separated. Usually from gmail **to** field.
 2. Run the script with the command `python3 compromise.py`
